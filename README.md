@@ -7,7 +7,6 @@ A compendium of reports and algorithms created for the Computational Methods for
 Modern medical imaging systems depend on the ability to extract information of interest, such as the size and location of a foreign body, from information collected incidentally, such as noise. Image post-processing algorithms are a flexible method for digital information extraction. Through this approach, a data set can be manipulated through a variety of filters and algorithms to effectively extract useful information. In this paper, I demonstrate the utility of a Gaussian filter applied to ultrasound data to isolate the location of a marble within the intestines of a dog.
 
 [The report can be found here:](HW1/AMATH482_HW1.pdf)
-[Related files can be found here:](HW1/...)
 
 ## Utilizing Gábor transforms and spectrograms to perform time-frequency analysis
 
